@@ -821,7 +821,7 @@ AnthyInstance::install_properties (void)
 void
 AnthyInstance::set_input_mode (InputMode mode)
 {
-    //If Current State is IS_CLOSED, do nothing.
+    //If Current state is IS_CLOSED, do nothing.
     if (IS_CLOSED == FcitxInstanceGetCurrentState(get_owner())) {
         return;
     }
