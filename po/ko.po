@@ -4,20 +4,20 @@
 #
 # Translators:
 # Bon Keun Seo <scobyseo@gmail.com>, 2017
-# Jung Hee Lee <daemul72@gmail.com>, 2021
-# Jung Hee Lee <daemul72@gmail.com>, 2020
+# JungHee Lee <daemul72@gmail.com>, 2021
+# JungHee Lee <daemul72@gmail.com>, 2020
 # heavyuser <heavyuser73@gmail.com>, 2016
 # heavyuser <heavyuser73@gmail.com>, 2016
-# Jung Hee Lee <daemul72@gmail.com>, 2021
-# Jung Hee Lee <daemul72@gmail.com>, 2020
-# Jung Hee Lee <daemul72@gmail.com>, 2020
+# JungHee Lee <daemul72@gmail.com>, 2021
+# JungHee Lee <daemul72@gmail.com>, 2020,2022
+# JungHee Lee <daemul72@gmail.com>, 2020
 msgid ""
 msgstr ""
 "Project-Id-Version: fcitx\n"
 "Report-Msgid-Bugs-To: fcitx-dev@googlegroups.com\n"
-"POT-Creation-Date: 2021-06-05 20:27+0000\n"
-"PO-Revision-Date: 2021-06-05 06:58+0000\n"
-"Last-Translator: Jung Hee Lee <daemul72@gmail.com>\n"
+"POT-Creation-Date: 2022-03-01 20:27+0000\n"
+"PO-Revision-Date: 2022-03-01 14:52+0000\n"
+"Last-Translator: JungHee Lee <daemul72@gmail.com>\n"
 "Language-Team: Korean (http://www.transifex.com/fcitx/fcitx/language/ko/)\n"
 "Language: ko\n"
 "MIME-Version: 1.0\n"
@@ -60,7 +60,7 @@ msgstr "Anthy"
 
 #: src/fcitx-anthy.conf.in:4
 msgid "Anthy Wrapper For Fcitx"
-msgstr "Fcitx를 위한 Anthy 입력기"
+msgstr "Fcitx를 위한 Anthy 래퍼"
 
 #: src/fcitx-anthy.desc:133 src/fcitx-anthy.desc:146
 msgid "Atok"
