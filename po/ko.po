@@ -4,20 +4,21 @@
 #
 # Translators:
 # Bon Keun Seo <scobyseo@gmail.com>, 2017
-# JungHee Lee <daemul72@gmail.com>, 2021
-# JungHee Lee <daemul72@gmail.com>, 2020
+# Junghee Lee <daemul72@gmail.com>, 2021
+# Junghee Lee <daemul72@gmail.com>, 2020
 # heavyuser <heavyuser73@gmail.com>, 2016
 # heavyuser <heavyuser73@gmail.com>, 2016
-# JungHee Lee <daemul72@gmail.com>, 2021
-# JungHee Lee <daemul72@gmail.com>, 2020,2022
-# JungHee Lee <daemul72@gmail.com>, 2020
+# Junghee Lee <daemul72@gmail.com>, 2022
+# Junghee Lee <daemul72@gmail.com>, 2021
+# Junghee Lee <daemul72@gmail.com>, 2020,2022
+# Junghee Lee <daemul72@gmail.com>, 2020
 msgid ""
 msgstr ""
 "Project-Id-Version: fcitx\n"
 "Report-Msgid-Bugs-To: fcitx-dev@googlegroups.com\n"
-"POT-Creation-Date: 2022-03-01 20:27+0000\n"
-"PO-Revision-Date: 2022-03-01 14:52+0000\n"
-"Last-Translator: JungHee Lee <daemul72@gmail.com>\n"
+"POT-Creation-Date: 2022-04-09 20:27+0000\n"
+"PO-Revision-Date: 2012-06-10 03:21+0000\n"
+"Last-Translator: Junghee Lee <daemul72@gmail.com>, 2022\n"
 "Language-Team: Korean (http://www.transifex.com/fcitx/fcitx/language/ko/)\n"
 "Language: ko\n"
 "MIME-Version: 1.0\n"
@@ -596,7 +597,7 @@ msgstr "세로"
 
 #: src/fcitx-anthy.desc:136 src/fcitx-anthy.desc:150
 msgid "Vje Delta"
-msgstr "VACS 일본어입력기 삼각주판 (VJE Delta)"
+msgstr "VJE 일본어 입력기"
 
 #: src/fcitx-anthy.desc:137 src/fcitx-anthy.desc:151
 msgid "WNN"
