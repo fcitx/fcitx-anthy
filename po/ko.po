@@ -16,7 +16,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: fcitx\n"
 "Report-Msgid-Bugs-To: fcitx-dev@googlegroups.com\n"
-"POT-Creation-Date: 2022-04-09 20:27+0000\n"
+"POT-Creation-Date: 2022-04-10 20:28+0000\n"
 "PO-Revision-Date: 2012-06-10 03:21+0000\n"
 "Last-Translator: Junghee Lee <daemul72@gmail.com>, 2022\n"
 "Language-Team: Korean (http://www.transifex.com/fcitx/fcitx/language/ko/)\n"
@@ -33,7 +33,7 @@ msgstr "(%d / %d)"
 
 #: src/fcitx-anthy.desc:160
 msgid "101kana"
-msgstr "101가나"
+msgstr "101카나"
 
 #: src/fcitx-anthy.desc:473
 msgid "Add Word"
@@ -61,7 +61,7 @@ msgstr "Anthy"
 
 #: src/fcitx-anthy.conf.in:4
 msgid "Anthy Wrapper For Fcitx"
-msgstr "Fcitx를 위한 Anthy 래퍼"
+msgstr "Fcitx용 Anthy 래퍼"
 
 #: src/fcitx-anthy.desc:133 src/fcitx-anthy.desc:146
 msgid "Atok"
@@ -109,7 +109,7 @@ msgstr "입력 모드 순환"
 
 #: src/fcitx-anthy.desc:207
 msgid "Circle kana mode"
-msgstr "가나 모드 순환"
+msgstr "카나 모드 순환"
 
 #: src/fcitx-anthy.desc:212
 msgid "Circle latin and hiragana mode"
@@ -165,7 +165,7 @@ msgstr "반각으로 변환"
 
 #: src/fcitx-anthy.desc:448
 msgid "Convert To Half Katakana"
-msgstr "반각 가타가나로 변환"
+msgstr "반각 가타카나로 변환"
 
 #: src/fcitx-anthy.desc:433
 msgid "Convert To Hiragana"
@@ -173,7 +173,7 @@ msgstr "히라가나로 변환"
 
 #: src/fcitx-anthy.desc:438
 msgid "Convert To Katakana"
-msgstr "가타가나로 변환"
+msgstr "가타카나로 변환"
 
 #: src/fcitx-anthy.desc:458
 msgid "Convert To Latin"
@@ -263,15 +263,15 @@ msgstr "전역"
 
 #: src/fcitx-anthy.desc:29
 msgid "Half Katakana"
-msgstr "반각 가타가나"
+msgstr "반각 가타카나"
 
 #: src/fcitx-anthy.desc:242
 msgid "Half Katakana mode"
-msgstr "반각 가타가나 모드"
+msgstr "반각 가타카나 모드"
 
 #: src/imengine.cpp:579
 msgid "Half width katakana"
-msgstr "반각 가타가나"
+msgstr "반각 가타카나"
 
 #: src/imengine.cpp:577 src/fcitx-anthy.desc:27
 msgid "Hiragana"
@@ -295,19 +295,19 @@ msgstr "입력 모드"
 
 #: src/fcitx-anthy.desc:258
 msgid "Insert Alternative space"
-msgstr "대체 공백 입력"
+msgstr "대체 공백 삽입"
 
 #: src/fcitx-anthy.desc:263
 msgid "Insert Half Space"
-msgstr "반각 공백 입력"
+msgstr "반각 공백 삽입"
 
 #: src/fcitx-anthy.desc:253
 msgid "Insert space"
-msgstr "공백 입력"
+msgstr "공백 삽입"
 
 #: src/fcitx-anthy.desc:268
 msgid "Insert wide space"
-msgstr "전각 공백 입력"
+msgstr "전각 공백 삽입"
 
 #: src/fcitx-anthy.desc:102 src/fcitx-anthy.desc:107 src/fcitx-anthy.desc:112
 #: src/fcitx-anthy.desc:117 src/fcitx-anthy.desc:122
@@ -324,15 +324,15 @@ msgstr "카나"
 
 #: src/fcitx-anthy.desc:157
 msgid "Kana Table"
-msgstr "가나 표"
+msgstr "카나 표"
 
 #: src/imengine.cpp:578 src/fcitx-anthy.desc:28
 msgid "Katakana"
-msgstr "가타가나"
+msgstr "가타카나"
 
 #: src/fcitx-anthy.desc:237
 msgid "Katakana mode"
-msgstr "가타가나 모드"
+msgstr "가타카나 모드"
 
 #: src/fcitx-anthy.desc:200 src/fcitx-anthy.desc:205 src/fcitx-anthy.desc:210
 #: src/fcitx-anthy.desc:215 src/fcitx-anthy.desc:220 src/fcitx-anthy.desc:225
@@ -441,7 +441,7 @@ msgstr "니콜라-J"
 
 #: src/fcitx-anthy.desc:17
 msgid "Number candidate of Triggers To Show Candidate Window"
-msgstr "후보 창을 표시할 전환 후보 수"
+msgstr "후보 단어 창의 표시를 트리거한 키 입력 수"
 
 #: src/fcitx-anthy.desc:175
 msgid "Oasys100J"
@@ -465,7 +465,7 @@ msgstr "예측"
 
 #: src/fcitx-anthy.desc:163
 msgid "Quick Kana"
-msgstr "빠른 가나"
+msgstr "빠른 카나"
 
 #: src/fcitx-anthy.desc:463
 msgid "Reconvert"
@@ -477,7 +477,7 @@ msgstr "오른쪽 엄지 키"
 
 #: src/fcitx-anthy.desc:488
 msgid "Ro key for kana layout"
-msgstr "가나 자판용 Ro 키"
+msgstr "카나 자판용 Ro 키"
 
 #: src/imengine.cpp:585 src/fcitx-anthy.desc:38
 msgid "Romaji"
