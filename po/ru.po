@@ -10,7 +10,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: fcitx\n"
 "Report-Msgid-Bugs-To: fcitx-dev@googlegroups.com\n"
-"POT-Creation-Date: 2022-06-02 20:29+0000\n"
+"POT-Creation-Date: 2022-10-22 20:27+0000\n"
 "PO-Revision-Date: 2012-06-10 03:21+0000\n"
 "Last-Translator: Dmitry <dmitrydmitry761@gmail.com>, 2022\n"
 "Language-Team: Russian (http://www.transifex.com/fcitx/fcitx/language/ru/)\n"
@@ -85,7 +85,7 @@ msgstr "Отменить режим псевдо-ASCII"
 
 #: src/fcitx-anthy.desc:8
 msgid "Candidate List Layout"
-msgstr "Подложка списка кандидатов"
+msgstr "Раскладка списка слов-кандидатов"
 
 #: src/fcitx-anthy.desc:418
 msgid "Candidates Page Down"
