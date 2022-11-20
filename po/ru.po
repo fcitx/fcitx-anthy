@@ -10,7 +10,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: fcitx\n"
 "Report-Msgid-Bugs-To: fcitx-dev@googlegroups.com\n"
-"POT-Creation-Date: 2022-10-23 20:27+0000\n"
+"POT-Creation-Date: 2022-11-20 06:36+0000\n"
 "PO-Revision-Date: 2012-06-10 03:21+0000\n"
 "Last-Translator: Dmitry <dmitrydmitry761@gmail.com>, 2022\n"
 "Language-Team: Russian (http://www.transifex.com/fcitx/fcitx/language/ru/)\n"
@@ -355,7 +355,7 @@ msgstr "Клавиша"
 
 #: src/fcitx-anthy.desc:130
 msgid "Key binding profile"
-msgstr "Профиль привязки ключа"
+msgstr "Профиль привязки клавиш"
 
 #: src/fcitx-anthy.desc:127 src/fcitx-anthy.desc:140 src/fcitx-anthy.desc:154
 #: src/fcitx-anthy.desc:166 src/fcitx-anthy.desc:180 src/fcitx-anthy.desc:185
