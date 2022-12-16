@@ -7,13 +7,15 @@
 # Alisha <alisha.4m@gmail.com>, 2012
 # PHLin <Cypressyew@gmail.com>, 2017
 # Gerald Du <frozenmouse@gmail.com>, 2015
+# Neko ◣ 0xFF, 2022
+# PHLin <Cypressyew@gmail.com>, 2017
 msgid ""
 msgstr ""
 "Project-Id-Version: fcitx\n"
 "Report-Msgid-Bugs-To: fcitx-dev@googlegroups.com\n"
-"POT-Creation-Date: 2017-12-06 00:02-0800\n"
-"PO-Revision-Date: 2017-12-05 08:04+0000\n"
-"Last-Translator: csslayer <wengxt@gmail.com>\n"
+"POT-Creation-Date: 2022-12-16 20:28+0000\n"
+"PO-Revision-Date: 2012-06-10 03:21+0000\n"
+"Last-Translator: Neko ◣ 0xFF, 2022\n"
 "Language-Team: Chinese (Taiwan) (http://www.transifex.com/fcitx/fcitx/"
 "language/zh_TW/)\n"
 "Language: zh_TW\n"
@@ -29,15 +31,15 @@ msgstr "(%d / %d)"
 
 #: src/fcitx-anthy.desc:160
 msgid "101kana"
-msgstr ""
+msgstr "101鍵假名"
 
 #: src/fcitx-anthy.desc:473
 msgid "Add Word"
-msgstr ""
+msgstr "新增單字"
 
 #: src/fcitx-anthy.desc:498
 msgid "Add word"
-msgstr ""
+msgstr "新增單字"
 
 #: src/fcitx-anthy.desc:84
 msgid "Allow split"
@@ -45,11 +47,11 @@ msgstr "允許分割"
 
 #: src/fcitx-anthy.desc:398
 msgid "Alternative Select next candidate"
-msgstr ""
+msgstr "替代選擇下一個候選詞"
 
 #: src/fcitx-anthy.desc:408
 msgid "Alternative Select prev candidate"
-msgstr ""
+msgstr "替代選擇上一個候選詞"
 
 #: src/factory.cpp:95 src/anthy.conf.in:3 src/fcitx-anthy.conf.in:3
 msgid "Anthy"
@@ -61,23 +63,23 @@ msgstr "Fcitx 的 Anthy 封裝"
 
 #: src/fcitx-anthy.desc:133 src/fcitx-anthy.desc:146
 msgid "Atok"
-msgstr ""
+msgstr "Atok"
 
 #: src/fcitx-anthy.desc:147
 msgid "Azik"
-msgstr ""
+msgstr "Azik"
 
 #: src/fcitx-anthy.desc:273
 msgid "BackSpace"
-msgstr ""
+msgstr "倒退鍵"
 
 #: src/fcitx-anthy.desc:303
 msgid "Cancel"
-msgstr ""
+msgstr "取消"
 
 #: src/fcitx-anthy.desc:308
 msgid "Cancel all"
-msgstr ""
+msgstr "取消全部"
 
 #: src/fcitx-anthy.desc:247
 msgid "Cancel pseudo ascii mode"
@@ -89,11 +91,11 @@ msgstr "候選詞清單配置"
 
 #: src/fcitx-anthy.desc:418
 msgid "Candidates Page Down"
-msgstr ""
+msgstr "候選字下一頁"
 
 #: src/fcitx-anthy.desc:413
 msgid "Candidates Page Up"
-msgstr ""
+msgstr "候選字上一頁"
 
 #: src/fcitx-anthy.desc:134 src/fcitx-anthy.desc:148
 msgid "Canna"
@@ -109,7 +111,7 @@ msgstr "循環假名模式"
 
 #: src/fcitx-anthy.desc:212
 msgid "Circle latin and hiragana mode"
-msgstr ""
+msgstr "循環羅馬拼音和平假名模式"
 
 #: src/fcitx-anthy.desc:217
 msgid "Circle typing method"
@@ -117,31 +119,31 @@ msgstr "循環輸入方案"
 
 #: src/fcitx-anthy.desc:496 src/fcitx-anthy.desc:501
 msgid "Command"
-msgstr ""
+msgstr "指令"
 
 #: src/fcitx-anthy.desc:283
 msgid "Commit"
-msgstr ""
+msgstr "提交"
 
 #: src/fcitx-anthy.desc:288
 msgid "Commit Reverse Learn"
-msgstr ""
+msgstr "提交逆向學習"
 
 #: src/fcitx-anthy.desc:363
 msgid "Commit first segment"
-msgstr ""
+msgstr "提交第一段"
 
 #: src/fcitx-anthy.desc:373
 msgid "Commit first segment reverse learn"
-msgstr ""
+msgstr "提交第一段反想詞"
 
 #: src/fcitx-anthy.desc:368
 msgid "Commit selected segment"
-msgstr ""
+msgstr "提交選中段"
 
 #: src/fcitx-anthy.desc:378
 msgid "Commit selected segment reverse learn"
-msgstr ""
+msgstr "提交選中段反想詞"
 
 #: src/imengine.cpp:807
 msgid "Conversion Mode"
@@ -153,31 +155,31 @@ msgstr "轉換模式"
 
 #: src/fcitx-anthy.desc:293
 msgid "Convert"
-msgstr ""
+msgstr "轉換"
 
 #: src/fcitx-anthy.desc:443
 msgid "Convert To Half"
-msgstr ""
+msgstr "轉換成半形"
 
 #: src/fcitx-anthy.desc:448
 msgid "Convert To Half Katakana"
-msgstr ""
+msgstr "轉換成半形片假名"
 
 #: src/fcitx-anthy.desc:433
 msgid "Convert To Hiragana"
-msgstr ""
+msgstr "轉換成平假名"
 
 #: src/fcitx-anthy.desc:438
 msgid "Convert To Katakana"
-msgstr ""
+msgstr "轉換成片假名"
 
 #: src/fcitx-anthy.desc:458
 msgid "Convert To Latin"
-msgstr ""
+msgstr "轉換成羅馬拼音"
 
 #: src/fcitx-anthy.desc:453
 msgid "Convert To Wide Latin"
-msgstr ""
+msgstr "轉換成全形羅馬拼音"
 
 #: src/imengine.cpp:593
 msgid "Convert as you type (Multi segment)"
@@ -189,19 +191,19 @@ msgstr "輸入時轉換（單段）"
 
 #: src/fcitx-anthy.desc:428
 msgid "Convert char type backward"
-msgstr ""
+msgstr "向後轉換字元類型"
 
 #: src/fcitx-anthy.desc:423
 msgid "Convert char type forward"
-msgstr ""
+msgstr "向前轉換字元類型"
 
 #: src/fcitx-anthy.desc:69
 msgid "Corner bracket and Middle Dot"
-msgstr ""
+msgstr "角括號和間隔號"
 
 #: src/fcitx-anthy.desc:70
 msgid "Corner bracket and wide slash"
-msgstr ""
+msgstr "書名號與寬斜線"
 
 #: src/fcitx-anthy.desc:138 src/fcitx-anthy.desc:152 src/fcitx-anthy.desc:164
 #: src/fcitx-anthy.desc:178
@@ -231,11 +233,11 @@ msgstr "預設"
 
 #: src/fcitx-anthy.desc:278
 msgid "Delete"
-msgstr ""
+msgstr "刪除"
 
 #: src/fcitx-anthy.desc:468 src/fcitx-anthy.desc:503
 msgid "Dict admin"
-msgstr ""
+msgstr "詞典管理"
 
 #: src/imengine.cpp:580
 msgid "Direct input"
@@ -243,7 +245,7 @@ msgstr "直接輸入"
 
 #: src/fcitx-anthy.desc:358
 msgid "Expand segment"
-msgstr ""
+msgstr "展開段落"
 
 #: src/fcitx-anthy.desc:1 src/fcitx-anthy.desc:6 src/fcitx-anthy.desc:15
 #: src/fcitx-anthy.desc:22 src/fcitx-anthy.desc:33 src/fcitx-anthy.desc:42
@@ -291,19 +293,19 @@ msgstr "輸入模式"
 
 #: src/fcitx-anthy.desc:258
 msgid "Insert Alternative space"
-msgstr ""
+msgstr "插入替代的空格"
 
 #: src/fcitx-anthy.desc:263
 msgid "Insert Half Space"
-msgstr ""
+msgstr "插入半形空格"
 
 #: src/fcitx-anthy.desc:253
 msgid "Insert space"
-msgstr ""
+msgstr "插入空格"
 
 #: src/fcitx-anthy.desc:268
 msgid "Insert wide space"
-msgstr ""
+msgstr "插入全形空格"
 
 #: src/fcitx-anthy.desc:102 src/fcitx-anthy.desc:107 src/fcitx-anthy.desc:112
 #: src/fcitx-anthy.desc:117 src/fcitx-anthy.desc:122
@@ -381,7 +383,7 @@ msgstr "手動提交時記錄輸入歷史"
 
 #: src/fcitx-anthy.desc:478
 msgid "Left thumb key"
-msgstr ""
+msgstr "左拇指鍵"
 
 #: src/fcitx-anthy.desc:135 src/fcitx-anthy.desc:149
 msgid "MS IME"
@@ -389,19 +391,19 @@ msgstr "微軟輸入法引擎"
 
 #: src/fcitx-anthy.desc:313
 msgid "Move Caret First"
-msgstr ""
+msgstr "移動插入符號到開頭"
 
 #: src/fcitx-anthy.desc:328
 msgid "Move caret backward"
-msgstr ""
+msgstr "向後移動插入符號"
 
 #: src/fcitx-anthy.desc:323
 msgid "Move caret forward"
-msgstr ""
+msgstr "向前移動插入符號"
 
 #: src/fcitx-anthy.desc:318
 msgid "Move caret last"
-msgstr ""
+msgstr "移動插入符號到結尾"
 
 #: src/imengine.cpp:591 src/fcitx-anthy.desc:47
 msgid "Multi segment"
@@ -409,7 +411,7 @@ msgstr "多段"
 
 #: src/fcitx-anthy.desc:49
 msgid "Multi segment immediate"
-msgstr ""
+msgstr "立即多段"
 
 #: src/imengine.cpp:587 src/fcitx-anthy.desc:40
 msgid "Nicola"
@@ -421,19 +423,19 @@ msgstr "尼古拉表"
 
 #: src/fcitx-anthy.desc:493
 msgid "Nicola time"
-msgstr ""
+msgstr "Nicola time"
 
 #: src/fcitx-anthy.desc:172
 msgid "Nicola-A"
-msgstr ""
+msgstr "Nicola-A"
 
 #: src/fcitx-anthy.desc:173
 msgid "Nicola-F"
-msgstr ""
+msgstr "Nicola-F"
 
 #: src/fcitx-anthy.desc:174
 msgid "Nicola-J"
-msgstr ""
+msgstr "Nicola-J"
 
 #: src/fcitx-anthy.desc:17
 msgid "Number candidate of Triggers To Show Candidate Window"
@@ -441,7 +443,7 @@ msgstr "觸發顯示候選字視窗的按鍵次數"
 
 #: src/fcitx-anthy.desc:175
 msgid "Oasys100J"
-msgstr ""
+msgstr "Oasys100J "
 
 #: src/fcitx-anthy.desc:3
 msgid "Page size"
@@ -457,23 +459,23 @@ msgstr "逗號風格"
 
 #: src/fcitx-anthy.desc:298
 msgid "Predict"
-msgstr ""
+msgstr "預測"
 
 #: src/fcitx-anthy.desc:163
 msgid "Quick Kana"
-msgstr ""
+msgstr "速成假名"
 
 #: src/fcitx-anthy.desc:463
 msgid "Reconvert"
-msgstr ""
+msgstr "重新轉換"
 
 #: src/fcitx-anthy.desc:483
 msgid "Right thumb key"
-msgstr ""
+msgstr "右拇指鍵"
 
 #: src/fcitx-anthy.desc:488
 msgid "Ro key for kana layout"
-msgstr ""
+msgstr "假名佈局的 ロ 鍵"
 
 #: src/imengine.cpp:585 src/fcitx-anthy.desc:38
 msgid "Romaji"
@@ -485,67 +487,67 @@ msgstr "羅馬字表"
 
 #: src/fcitx-anthy.desc:383
 msgid "Select first candidate"
-msgstr ""
+msgstr "選擇第一個候選詞"
 
 #: src/fcitx-anthy.desc:333
 msgid "Select first segment"
-msgstr ""
+msgstr "選擇第一段"
 
 #: src/fcitx-anthy.desc:388
 msgid "Select last candidate"
-msgstr ""
+msgstr "選擇最後一個候選詞"
 
 #: src/fcitx-anthy.desc:338
 msgid "Select last segment"
-msgstr ""
+msgstr "選擇最後一段"
 
 #: src/fcitx-anthy.desc:393
 msgid "Select next candidate"
-msgstr ""
+msgstr "選擇下一個候選詞"
 
 #: src/fcitx-anthy.desc:343
 msgid "Select next segment"
-msgstr ""
+msgstr "選擇下一段"
 
 #: src/fcitx-anthy.desc:403
 msgid "Select prev candidate"
-msgstr ""
+msgstr "選擇前一個候選詞"
 
 #: src/fcitx-anthy.desc:348
 msgid "Select previous segment"
-msgstr ""
+msgstr "選擇上一段"
 
 #: src/fcitx-anthy.desc:94
 msgid "Show candidates label"
-msgstr ""
+msgstr "顯示候選詞標籤"
 
 #: src/fcitx-anthy.desc:114
 msgid "Show conversion mode"
-msgstr ""
+msgstr "顯示轉換模式"
 
 #: src/fcitx-anthy.desc:104
 msgid "Show input mode"
-msgstr ""
+msgstr "顯示輸入模式"
 
 #: src/fcitx-anthy.desc:99
 msgid "Show input mode in input window when focus changes"
-msgstr ""
+msgstr "當焦點改變時在輸入窗口中顯示輸入模式"
 
 #: src/fcitx-anthy.desc:119
 msgid "Show period style"
-msgstr ""
+msgstr "顯示逗號樣式"
 
 #: src/fcitx-anthy.desc:124
 msgid "Show symbol style"
-msgstr ""
+msgstr "顯示符號樣式"
 
 #: src/fcitx-anthy.desc:109
 msgid "Show typing method"
-msgstr ""
+msgstr "顯示輸入方式"
 
 #: src/fcitx-anthy.desc:353
 msgid "Shrink segment"
-msgstr ""
+msgstr "展開段落"
 
 #: src/imengine.cpp:592 src/fcitx-anthy.desc:48
 msgid "Single segment"
@@ -553,7 +555,7 @@ msgstr "單段"
 
 #: src/fcitx-anthy.desc:50
 msgid "Single segment immediate"
-msgstr ""
+msgstr "立即單段"
 
 #: src/imengine.cpp:809
 msgid "Symbol Style"
@@ -621,8 +623,8 @@ msgstr "全形英文模式"
 
 #: src/fcitx-anthy.desc:161
 msgid "tsuki-2-203-101"
-msgstr ""
+msgstr "tsuki-2-203-101"
 
 #: src/fcitx-anthy.desc:162
 msgid "tsuki-2-203-106"
-msgstr ""
+msgstr "tsuki-2-203-106"
