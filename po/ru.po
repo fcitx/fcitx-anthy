@@ -10,7 +10,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: fcitx\n"
 "Report-Msgid-Bugs-To: fcitx-dev@googlegroups.com\n"
-"POT-Creation-Date: 2023-07-22 20:26+0000\n"
+"POT-Creation-Date: 2023-11-03 20:26+0000\n"
 "PO-Revision-Date: 2012-06-10 03:21+0000\n"
 "Last-Translator: Dmitry <dmitrydmitry761@gmail.com>, 2022-2023\n"
 "Language-Team: Russian (http://app.transifex.com/fcitx/fcitx/language/ru/)\n"
@@ -381,7 +381,7 @@ msgstr "Учиться на ручном вводе"
 
 #: src/fcitx-anthy.desc:478
 msgid "Left thumb key"
-msgstr "Клавиша отступа слева"
+msgstr "Левая клавиша большого пальца"
 
 #: src/fcitx-anthy.desc:135 src/fcitx-anthy.desc:149
 msgid "MS IME"
@@ -469,7 +469,7 @@ msgstr "Переконвертировать"
 
 #: src/fcitx-anthy.desc:483
 msgid "Right thumb key"
-msgstr "Клавиша отступа справа"
+msgstr "Правая клавиша большого пальца"
 
 #: src/fcitx-anthy.desc:488
 msgid "Ro key for kana layout"
