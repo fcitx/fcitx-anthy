@@ -10,7 +10,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: fcitx\n"
 "Report-Msgid-Bugs-To: fcitx-dev@googlegroups.com\n"
-"POT-Creation-Date: 2023-11-03 20:26+0000\n"
+"POT-Creation-Date: 2023-11-28 20:26+0000\n"
 "PO-Revision-Date: 2012-06-10 03:21+0000\n"
 "Last-Translator: Dmitry <dmitrydmitry761@gmail.com>, 2022-2023\n"
 "Language-Team: Russian (http://app.transifex.com/fcitx/fcitx/language/ru/)\n"
@@ -153,11 +153,11 @@ msgstr "Режим конвертации"
 
 #: src/fcitx-anthy.desc:293
 msgid "Convert"
-msgstr "Конвертировать"
+msgstr "Преобразовать"
 
 #: src/fcitx-anthy.desc:443
 msgid "Convert To Half"
-msgstr "Конвертировать наполовину"
+msgstr "Преобразовать в половинную"
 
 #: src/fcitx-anthy.desc:448
 msgid "Convert To Half Katakana"
@@ -165,35 +165,35 @@ msgstr "Преобразовать в полуширинную Катакану"
 
 #: src/fcitx-anthy.desc:433
 msgid "Convert To Hiragana"
-msgstr "Конвертировать в Хирагану"
+msgstr "Преобразовать в Хирагану"
 
 #: src/fcitx-anthy.desc:438
 msgid "Convert To Katakana"
-msgstr "Конвертировать в Катакану"
+msgstr "Преобразовать в Катакану"
 
 #: src/fcitx-anthy.desc:458
 msgid "Convert To Latin"
-msgstr "Преобразовать в Латиницу"
+msgstr "Преобразовать в Latin"
 
 #: src/fcitx-anthy.desc:453
 msgid "Convert To Wide Latin"
-msgstr "Преобразовать в широкую латиницу"
+msgstr "Преобразовать в Wide Latin"
 
 #: src/imengine.cpp:593
 msgid "Convert as you type (Multi segment)"
-msgstr "Конвертировать при печати (Множество сегментов)"
+msgstr "Преобразование по мере ввода (Множество сегментов)"
 
 #: src/imengine.cpp:594
 msgid "Convert as you type (Single segment)"
-msgstr "Конвертировать при печати (Одиночный сегмент)"
+msgstr "Преобразование по мере ввода (один сегмент)"
 
 #: src/fcitx-anthy.desc:428
 msgid "Convert char type backward"
-msgstr "Конвертировать тип символа назад"
+msgstr "Обратное преобразование типа символов"
 
 #: src/fcitx-anthy.desc:423
 msgid "Convert char type forward"
-msgstr "Конвертировать тип символа вперед"
+msgstr "Прямое преобразование типа символов"
 
 #: src/fcitx-anthy.desc:69
 msgid "Corner bracket and Middle Dot"
@@ -465,7 +465,7 @@ msgstr "Быстрая Кана"
 
 #: src/fcitx-anthy.desc:463
 msgid "Reconvert"
-msgstr "Переконвертировать"
+msgstr "Преобразовать повторно"
 
 #: src/fcitx-anthy.desc:483
 msgid "Right thumb key"
