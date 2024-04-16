@@ -3,16 +3,16 @@
 # This file is distributed under the same license as the PACKAGE package.
 #
 # Translators:
-# Dmitry <dmitrydmitry761@gmail.com>, 2022-2023
+# Dmitry <dmitrydmitry761@gmail.com>, 2022-2024
 # TotalCaesar659 <x24cm5b8c54q6szxw@yandex.ru>, 2016
 # TotalCaesar659 <x24cm5b8c54q6szxw@yandex.ru>, 2016
 msgid ""
 msgstr ""
 "Project-Id-Version: fcitx\n"
 "Report-Msgid-Bugs-To: fcitx-dev@googlegroups.com\n"
-"POT-Creation-Date: 2023-11-28 20:26+0000\n"
+"POT-Creation-Date: 2024-04-16 20:29+0000\n"
 "PO-Revision-Date: 2012-06-10 03:21+0000\n"
-"Last-Translator: Dmitry <dmitrydmitry761@gmail.com>, 2022-2023\n"
+"Last-Translator: Dmitry <dmitrydmitry761@gmail.com>, 2022-2024\n"
 "Language-Team: Russian (http://app.transifex.com/fcitx/fcitx/language/ru/)\n"
 "Language: ru\n"
 "MIME-Version: 1.0\n"
@@ -157,7 +157,7 @@ msgstr "Преобразовать"
 
 #: src/fcitx-anthy.desc:443
 msgid "Convert To Half"
-msgstr "Преобразовать в половинную"
+msgstr "Преобразовать в полуширинную"
 
 #: src/fcitx-anthy.desc:448
 msgid "Convert To Half Katakana"
@@ -259,11 +259,11 @@ msgstr "Общий"
 
 #: src/fcitx-anthy.desc:29
 msgid "Half Katakana"
-msgstr "Половинная катакана"
+msgstr "Полуширинная Катакана"
 
 #: src/fcitx-anthy.desc:242
 msgid "Half Katakana mode"
-msgstr "Режим половинной катакана"
+msgstr "Режим полуширинной Катаканы"
 
 #: src/imengine.cpp:579
 msgid "Half width katakana"
