@@ -10,7 +10,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: fcitx\n"
 "Report-Msgid-Bugs-To: fcitx-dev@googlegroups.com\n"
-"POT-Creation-Date: 2024-04-16 20:29+0000\n"
+"POT-Creation-Date: 2024-04-17 20:27+0000\n"
 "PO-Revision-Date: 2012-06-10 03:21+0000\n"
 "Last-Translator: Dmitry <dmitrydmitry761@gmail.com>, 2022-2024\n"
 "Language-Team: Russian (http://app.transifex.com/fcitx/fcitx/language/ru/)\n"
@@ -267,7 +267,7 @@ msgstr "Режим полуширинной Катаканы"
 
 #: src/imengine.cpp:579
 msgid "Half width katakana"
-msgstr "Полуширинная катакана"
+msgstr "Полуширинная Катакана"
 
 #: src/imengine.cpp:577 src/fcitx-anthy.desc:27
 msgid "Hiragana"
